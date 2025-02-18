@@ -1,4 +1,5 @@
 ModernArt Game
+
 The ModernArt game is a simulation of an auction game where players compete to buy paintings from various artists. The game has different rounds, each with specific auction types, where players attempt to acquire paintings and earn money based on their success. The game features human players, computer players, and AFK (Away From Keyboard) players.
 
 Features:
